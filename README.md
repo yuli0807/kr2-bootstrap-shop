@@ -31,11 +31,10 @@
 
 ## Структура проекта
 
-```text
+```text 
 kr2-bootstrap-shop/
 ├── index.html
 ├── css/
 │   └── custom.css
 ├── README.md
 └── .gitignore
-
